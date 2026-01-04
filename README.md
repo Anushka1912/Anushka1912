@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working at Varian as a Software Developer Enginner<br>2025 BTech CSE Graduate - AIML as specialization<br>
+Working at Varian as a Software Developer Enginner<br>2025 BTech CSE Graduate - AIML as specialization<br>Full Stack Developer<br>GenAL Developer<br>
 
 
 ## 🌐 Socials:
